@@ -11,5 +11,5 @@ When you leave a game or if you get disconnected you can re-join it, based on so
 
 | Command    | Description    |
 |------------|----------------|
-| /rejoin    | re-join a game |
-| /bw rejoin | re-join a game |
+| /rejoin stupid   | re-join a game |
+| /bw rejoin stupidissmo | re-join a game |
